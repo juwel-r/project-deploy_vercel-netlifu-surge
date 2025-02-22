@@ -5,13 +5,13 @@
 ## Firebase Deploy
  ```bash
 firebase init
-//select hosting
-//select existing project
-//proceed  ->
+#select hosting
+#select existing project
+#proceed  ->
 y
-//directory  ->
+#directory  ->
 dist
-//single page ->
+#single page ->
 y
 ```
 
