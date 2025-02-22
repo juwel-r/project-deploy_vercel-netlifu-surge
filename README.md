@@ -1,4 +1,14 @@
-# vercel-server-deploy
+
+
+# vercel-server and firebase deploy
+
+## Firebase Deploy
+ =>firebase init
+ =>select hosting
+ =>select existing project
+ =>proceed  ->  y
+ =>directory  ->  dist
+ =>single page -> y
 
 ## Server Deployment steps
 
